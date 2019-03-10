@@ -2,9 +2,9 @@
 
 Context: This configuration represents customary land owned by persons for purposes of issuing Occupancy certificates for the custoamry land in Bulemu village , Chamuka Chiefdom, Chisamba District, Zambia. 
 
-**Social Tenure Entities**
+<!-- **Social Tenure Entities** -->
 
-<img alt="Chamuka Chiefdom - Social Tenure Entities"/>
+<!-- <img alt="Chamuka Chiefdom - Social Tenure Entities"/> -->
 
 **Sample output: Certificate of Customary Land Occupancy**
 
