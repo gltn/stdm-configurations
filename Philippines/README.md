@@ -1,7 +1,5 @@
-## Customary Land
-	
-Context: The context of this configuration is Tenure Security for Smallholder farmers of Bukidnon province in the Philippines. Data on this profile represented the relationship between person and house or farms they own.
+## Application Contexts & Report Templates
 
-**Social Tenure Relationship (STR) Data Model**
+1. **Agriculture**
 
-<img alt="Lusaka City Council - Social Tenure Relationship Entities" src="../images/readme/party_entities_philippines.png" />
+	The context of this configuration is Tenure Security for Smallholder farmers of Bukidnon province in the Philippines. Data on this profile represented the relationship between person and house or farms they own.
